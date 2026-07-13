@@ -8,15 +8,12 @@ This repository is intended for beginners and students who want to learn GetX th
 
 This repository includes multiple GetX-based projects such as:
 
-* Counter App
+* Counter_Timer App
 * Todo App
 * CRUD Operations
 * Product Management
-* API Integration
-* Timer App
 * Navigation Examples
 * Form Validation
-* Authentication Examples
 * More projects will be added regularly.
 
 ## 🎯 Objectives
